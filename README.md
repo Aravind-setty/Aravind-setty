@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravind setty</h1>
 <h3 align="center">An Artificial Intelligence & Data Science Student from India</h3>
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,SQL**
 
 - 📫 How to reach me **settyaravind00@gmail.com**
 
