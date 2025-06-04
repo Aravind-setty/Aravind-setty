@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aravind setty</h1>
 <h3 align="center">An Artificial Intelligence & Data Science Student from India</h3>
 
-- 💬 Ask me about **Python,SQL**
-
-- 📫 How to reach me **aravindsetty19@gmail.com**
+- 📫 How to reach me **settyaravind000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aravind_setty00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravind_setty00" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aravindsetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravindsetty" height="30" width="40" /></a>
 <a href="https://instagram.com/aravind_.setty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aravind_.setty" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aravindsetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aravindsetty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
